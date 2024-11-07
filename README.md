@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iraklisspyrou
-- 👀 I’m interested in medical physics
-- 🌱 I’m currently learning physics
-- 💞️ I’m looking to collaborate on medical imaging
+- 👀 I’m interested in AI and its applications
+- 🌱 I’m currently pursuing my M.Sc. in Artificial Intelligence
+  
 
 <!---
 iraklisspyrou/iraklisspyrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
