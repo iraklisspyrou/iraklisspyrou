@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iraklisspyrou
-- 👀 I’m interested in AI and its applications
+- 👀 I’m interested in AI and NLP.
 - 🌱 I’m currently pursuing my M.Sc. in Artificial Intelligence
+- I'm working as an R&D Engineer (AI) @infolysis
   
 
 <!---
