@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @iraklisspyrou
-- 👀 I’m interested in AI research.
-- 🌱 I’m currently completing my M.Sc. in Artificial Intelligence
-- 🤖 I'm working as an R&D Engineer (AI) @infolysis
-  
+## Hi, I'm Iraklis Spyrou 👋
 
-<!---
-iraklisspyrou/iraklisspyrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI Research & Development Engineer** | **M.Sc. in Artificial Intelligence**
+
+I'm passionate about artificial intelligence and machine learning, with hands-on experience developing AI solutions at **Infolysis**. My focus is on translating AI research into practical applications that drive real-world impact.
+
+### About Me
+- 🤖 **AI R&D Engineer** at Infolysis
+- 🎓 **M.Sc. in Artificial Intelligence** (Completed)
+- 👀 Interested in AI research and cutting-edge machine learning techniques
+- 💡 Dedicated to solving complex problems through innovative AI solutions
+
+### Let's Connect
+Feel free to reach out if you'd like to collaborate or discuss AI research!
