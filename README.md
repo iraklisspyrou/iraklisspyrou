@@ -2,7 +2,7 @@
 
 **AI Research & Development Engineer** | **M.Sc. in Artificial Intelligence**
 
-I'm passionate about artificial intelligence and machine learning, with hands-on experience developing AI solutions at **Infolysis**. My focus is on translating AI research into practical applications that drive real-world impact.
+I'm passionate about artificial intelligence and machine learning, with hands-on experience developing AI solutions at **Infolysis P.C.**. My focus is on translating AI research into practical applications that drive real-world impact.
 
 ### About Me
 - 🤖 **AI R&D Engineer** at Infolysis
